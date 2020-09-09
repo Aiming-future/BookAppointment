@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/imooc/appoint/dao/BookDao.java=UTF-8
+encoding//src/main/java/com/imooc/appoint/service/BookService.java=UTF-8
+encoding//src/main/java/com/imooc/appoint/service/Impl/BookServiceImpl.java=UTF-8
+encoding//src/main/java/com/imooc/appoint/web/BookController.java=UTF-8
